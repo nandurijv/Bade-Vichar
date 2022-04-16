@@ -23,5 +23,7 @@ Apart from the given feature, other features, like managing attendance, or proje
 
 ## REFERENCES AND CITATIONS
 -[Symbl.ai Documentation]{https://docs.symbl.ai/docs/what-is-symbl/}
--
--
+-[Github Repos of Symbl.ai]{https://github.com/symblai}
+-[Symbl Projects Web-SDK Github]{https://github.com/symblai/symbl-web-sdk}
+-[OceanProtocol Docs]{https://oceanprotocol.com/}
+-[Symbl Projects samples Github]{https://github.com/symblai/getting-started-samples}
