@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@symblai/symbl-js": "^1.4.6",
+    "mic": "^2.1.2",
+    "uuid": "^8.3.2"
+  }
+}
