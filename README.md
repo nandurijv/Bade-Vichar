@@ -22,8 +22,8 @@ Application and use-cases of symbl.ai, integrating symbl.ai with Front end and c
 Apart from the given feature, other features, like managing attendance, or project assignment to the members have been kept as a future prospect due to lack of time for implementation.
 
 ## REFERENCES AND CITATIONS
--[Symbl.ai Documentation]{https://docs.symbl.ai/docs/what-is-symbl/}
--[Github Repos of Symbl.ai]{https://github.com/symblai}
--[Symbl Projects Web-SDK Github]{https://github.com/symblai/symbl-web-sdk}
--[OceanProtocol Docs]{https://oceanprotocol.com/}
--[Symbl Projects samples Github]{https://github.com/symblai/getting-started-samples}
+[Symbl.ai Documentation]{https://docs.symbl.ai/docs/what-is-symbl/}
+[Github Repos of Symbl.ai]{https://github.com/symblai}
+[Symbl Projects Web-SDK Github]{https://github.com/symblai/symbl-web-sdk}
+[OceanProtocol Docs]{https://oceanprotocol.com/}
+[Symbl Projects samples Github]{https://github.com/symblai/getting-started-samples}
