@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    justify-content: center;
+    align-items: center;
+}
+.left,.right{
+    margin:2rem;
+    font-family: 'Poppins',sans-serif;
+    font-weight:600;
+    border:2px solid black;
+    min-height:30vh;
+    padding:2rem;
+}
+button{
+    padding:1rem;
+    text-decoration: none;
+    outline:none;
+    background-color:white;
+    box-shadow: none;
+    border:2px solid black;
+    border-radius:4rem;
+    cursor:pointer;
+    transition:0.2s all ease;
+}
+button:hover{
+    background-color:black;
+    color:white;
+    box-shadow: 5px 5px 0px grey;
+}
