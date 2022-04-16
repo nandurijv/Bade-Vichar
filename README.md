@@ -27,3 +27,6 @@ Apart from the given feature, other features, like managing attendance, or proje
 [Symbl Projects Web-SDK Github](https://github.com/symblai/symbl-web-sdk)<br />
 [OceanProtocol Docs](https://oceanprotocol.com/)<br />
 [Symbl Projects samples Github](https://github.com/symblai/getting-started-samples)<br />
+
+## Domain Name for GoDaddy Registry Award
+[badevichar.bizz](https://nandurijv.github.io/Bade-Vichar/)
