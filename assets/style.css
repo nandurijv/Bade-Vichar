@@ -3,17 +3,27 @@
     margin: 0;
     box-sizing: border-box;
 }
+img{
+    padding-top:2rem;
+}
+body{
+    background:url('/assets/868844.webp');
+    background-size:cover;
+}
 .container{
     justify-content: center;
     align-items: center;
 }
 .left,.right{
+    border-radius: 2rem;
+    border:1px solid black;
     margin:2rem;
     font-family: 'Poppins',sans-serif;
     font-weight:600;
     border:2px solid black;
     min-height:30vh;
     padding:2rem;
+    background-color:rgba(255, 255, 255, 0.662);
 }
 button{
     padding:1rem;
